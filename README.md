@@ -24,6 +24,22 @@ Design: <br/>
 <img src="https://i.imgur.com/xm0mkJB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Enter the number of passes: <br/>
+<img src="https://i.imgur.com/XVtPivq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src="https://i.imgur.com/vRhQXIt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/2UchNYI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <!--
  ```diff
